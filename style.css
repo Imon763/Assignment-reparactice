@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* -----------header styles------ */
+
+.header{
+    background-image: url('images/banner/banner1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 850px;
+    text-align: right;
+    color: black;
+}
+.header-content{
+    padding-top: 100px
+}
+.header-title{
+    font-size: 75px;
+    font-weight: 800;
+    padding-right: 100px;
+}
+.header-description{}
