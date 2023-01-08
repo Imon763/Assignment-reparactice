@@ -112,4 +112,27 @@ h2{
 }
 
 /* ---------calling section end----------- */
+/* ----------footer section start--------- */
 
+.footer-section{
+    display: flex;
+    color: white;
+    background-color: black;
+    height: 500px;
+}
+.future-content{
+    padding-top: 100px;
+    padding-left: 250px;
+}
+.future-description{
+    margin-top: 25px;
+}
+.subscribe-content{
+    padding-top: 100px;
+    padding-left: 400px;
+}
+.subscribe-mail{
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 25px;
+}
