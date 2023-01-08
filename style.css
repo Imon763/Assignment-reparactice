@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+h2{
+    font-size: 70px;
+    font-weight: 800;
+}
 
 /* -----------header styles------ */
 
@@ -44,7 +48,17 @@
 .main-section{
     display: flex;
     margin-top: 150px;
+    margin-bottom: 100px;
+}
+.failure-image{
+    width: 50%;
+    padding-left: 150px;
 }
 .failure-area{
-    
+    padding-right: 0px;
+    margin-top: 150px;
+}
+.failure-description{
+    font-size: 16px;
+    margin-top: 20px;
 }
